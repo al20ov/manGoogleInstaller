@@ -1,0 +1,2 @@
+1. Open this folder in a terminal and type ./install.sh
+2. If you cannot execute it, try to run "chmod 755 install.sh" and try the first step again.
